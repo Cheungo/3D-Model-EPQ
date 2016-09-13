@@ -1,0 +1,37 @@
+#version 330 core
+in vec2 TexCoord;
+
+out vec4 color;
+//sampler (data type for texture objects) takes postfix of texture type (e.g. sampler1D)
+//Declaring uniform sampler2D allows us to add texture to fragment shader
+
+//uniform sampler2D ourTexture1;
+//uniform sampler2D ourTexture2;
+
+//Multiple sampler texture 
+
+
+
+uniform sampler2D texture_diffuse1;
+
+void main()
+{
+	color = vec4(texture(texture_diffuse1, TexCoord));
+
+
+
+
+
+
+	//color = mix(texture(ourTexture1, TexCoord), texture(ourTexture2, TexCoord), 0.2);
+	
+	//Texture function
+	/*
+	Mix function linearly interpolates 2 input values based on 3rd argument.
+	If 3rd argument = 0.0, returns 1st input
+	if 3rd argument = 1.0, returns 2nd input
+
+	1) Texture sampler
+	2) Corresponding texture coordinate
+	*/
+};
