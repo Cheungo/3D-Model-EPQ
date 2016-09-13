@@ -14,3 +14,5 @@ HOW TO USE:
 2. Use keyboard keys 'W A S D' to move around the world.
 
 *Please do not delete, rename or move any of the files in this folder or else the program cannot be executed*
+
+Many thanks to Joey de Vries for his amazing content on http://learnopengl.com/. I have learned so much about OpenGL and could not have completed this project without his resouces!  
