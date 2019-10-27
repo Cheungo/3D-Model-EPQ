@@ -2,7 +2,6 @@
 Render of 3D Monkey Head model using OpenGL for the Extended Project Qualification (EPQ) Award
 
 Joshua Cheung 
-Candidate number: 9340 
 EPQ Project (Artefact) - Monkey Head Model
 
 Source code for the program is in the 'Source' folder.
