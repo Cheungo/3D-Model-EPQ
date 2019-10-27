@@ -4,8 +4,6 @@ Render of 3D Monkey Head model using OpenGL for the Extended Project Qualificati
 Joshua Cheung 
 EPQ Project (Artefact) - Monkey Head Model
 
-Source code for the program is in the 'Source' folder.
-
 HOW TO USE:
 ============
 1. To run the program, double click the executable file named 'EPQ' in this folder. 
